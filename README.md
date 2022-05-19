@@ -18,6 +18,11 @@
   <p align="justify">
     Server Side Algorithms (SSA) is a platform with the objective to cover the gap between applications developers and scientists. Through a standard API described in our documentation (a link will be available soon), the registered developers are allowed to send HTTP requests to our server by requiring the execution of a specific algorithm on the provided data. These requests will be processed in real time and there is no limit to the number of requests a registered user can make. 
   </p>
+  
+  <a href="https://github.com/mattianeroni/server-side-algorithms-doc">
+    <img src="images/scheme.png" alt="Logo" width="700" height="500">
+  </a>
+  
   <p align="justify">
     In this way, developers with no scientific background have the opportunity to incorporate in their own applications complex algorithms and procedures, which have been developed by the experts of the sector and reviewed by our representatives.
   </p>
