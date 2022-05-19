@@ -20,7 +20,7 @@
   </p>
   
   <a href="https://github.com/mattianeroni/server-side-algorithms-doc">
-    <img src="images/scheme.png" alt="Logo" width="700" height="500">
+    <img src="images/scheme.png" alt="Logo" width="80%" height="60%">
   </a>
   
   <p align="justify">
