@@ -25,7 +25,7 @@
     On the other hand, scientists with a solid background in algorithms, high-performance computing, combinatorial optimization, machine learning, and many other fields, can upload on the platform their implementations. In this way, they will gain visibility and will have the opportunity to earn from the platform safely and without any need to incorporate their algorithms in an application or spend time in the development of a user interface.
     <br />
     <br />
-    <a href="https://github.com/mattianeroni/server-side-algorithms-doc"><strong>View Web Site</a>
+    <a href="https://github.com/mattianeroni/server-side-algorithms-doc"><strong>View Web Site</strong></a>
     <br />
   </p>
 </div>
@@ -54,7 +54,11 @@
 ### Why Server Side Algorithms
 
 
-Server Side Algorithms (SSA) is a self-maintained project. The initial service will be very basic, but we have intention to provide a more accurate documentation, and a more and more powerful server as the number of users increase. 
+Server Side Algorithms (SSA) is a self-maintained project. The idea comes from the necessity of some scientists very busy in their academic work to monetize and provide visibility to their creations. This platform constitutes a meeting point where scientists and developers more experienced in production software may benefit from each other.
+
+Our representatives provide safety of the infrastructure, and an accurate revision of all the solutions and relative documentation uploaded on the platform. To be accepted, an algorithm must be provided in readable ` Python >= 3.8 ` code and its documentation must respect the standards and guidelines required.
+
+The initial service will be very basic, but we have intention to provide a more accurate documentation, and a more and more powerful server as the number of users increase. 
   
 You can find our documentation at the following link: (soon available). 
 
@@ -86,19 +90,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/mattianeroni/server-side-algorithms-doc.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+No installation is required. We will provide soon on [GitHub](https://github.com) a set of plug-in to easily communicate with the server by using the most widely used programming languages.
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,33 +102,17 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-
-<!-- ROADMAP -->
 ## Content
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Available algorithms are clusterized into categories that the users have the possibility to create and customize:
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for an accurate description of proposed features.
+- [ ] Sorting
+- [ ] Transportation
+- [ ] Health
+- [ ] Physics
+- [ ] Metaheuristics
+- [ ] ...
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
