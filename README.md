@@ -28,10 +28,11 @@
   </p>
   <p align="justify">
     On the other hand, scientists with a solid background in algorithms, high-performance computing, combinatorial optimization, machine learning, and many other fields, can upload on the platform their implementations. In this way, they will gain visibility and will have the opportunity to earn from the platform safely and without any need to incorporate their algorithms in an application or spend time in the development of a user interface.
-    <br />
-    <br />
+  </p>
+  <p align="center">
+    <br /><br />
     <a href="https://github.com/mattianeroni/server-side-algorithms-doc"><strong>View Web Site</strong></a>
-    <br />
+    <br /><br />
   </p>
 </div>
 
