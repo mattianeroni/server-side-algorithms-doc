@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mattianeroni/server-side-algorithms-doc">
-    <img src="images/logo.png" alt="Logo" width="260" height="450">
+    <img src="static/logo.png" alt="Logo" width="260" height="450">
   </a>
   
   <h1 align="center">Server Side Algorithms</h1>
@@ -20,7 +20,7 @@
   </p>
   
   <a href="https://github.com/mattianeroni/server-side-algorithms-doc">
-    <img src="images/scheme.png" alt="Logo" width="80%" height="60%">
+    <img src="static/scheme.png" alt="Logo" width="80%" height="60%">
   </a>
   
   <p align="justify">
@@ -155,4 +155,4 @@ This project is completely self maintained.
 [issues-shield]: https://img.shields.io/github/issues/mattianeroni/server-side-algorithms-doc.svg?style=for-the-badge
 [issues-url]: https://github.com/mattianeroni/server-side-algorithms-doc/issues
 [mylinkedin]: https://www.linkedin.com/in/mattia-neroni-081965101/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: static/screenshot.png
