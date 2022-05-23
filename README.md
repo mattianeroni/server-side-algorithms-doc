@@ -54,7 +54,8 @@
 
 ## About The Project
 
-![screen](static/screenshot.png)
+[screen](static/screenshot.png)
+<img src="static/screenshot.png" alt="Logo" width="260" height="450">
 
 
 ### Why Server Side Algorithms
@@ -155,4 +156,3 @@ This project is completely self maintained.
 [issues-shield]: https://img.shields.io/github/issues/mattianeroni/server-side-algorithms-doc.svg?style=for-the-badge
 [issues-url]: https://github.com/mattianeroni/server-side-algorithms-doc/issues
 [mylinkedin]: https://www.linkedin.com/in/mattia-neroni-081965101/
-[product-screenshot]: static/screenshot.png
