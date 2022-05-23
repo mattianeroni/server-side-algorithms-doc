@@ -54,8 +54,7 @@
 
 ## About The Project
 
-[screen](static/screenshot.png)
-<img src="static/screenshot.png" alt="Logo" width="260" height="450">
+![screen](/static/screenshot.png)
 
 
 ### Why Server Side Algorithms
