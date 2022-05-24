@@ -16,7 +16,7 @@
   <h1 align="center">Server Side Algorithms</h1>
   
   <p align="justify">
-    Server Side Algorithms (SSA) is a platform with the objective to cover the gap between applications developers and scientists. Through a standard API described in our <a href="https://server-side-algorithms.herokuapp.com/">Documentation</a>, the registered developers are allowed to send HTTP requests to our server by requiring the execution of a specific algorithm on the provided data. These requests will be processed in real time and there is no limit to the number of requests a registered user can make. 
+    Server Side Algorithms (SSA) is a platform with the objective to cover the gap between applications developers and scientists. Through a standard API described in our <a href="https://server-side-algorithms.herokuapp.com/">Documentation</a>, the registered developers are allowed to send HTTP requests to our server by requiring the execution of a specific algorithm on the provided data. 
   </p>
   
   <a href="https://github.com/mattianeroni/server-side-algorithms-doc">
